@@ -1,6 +1,7 @@
 # Task 1: Call an LLM from Code
 
 ## Goal
+
 Implement a CLI agent that calls an LLM and returns a JSON response.
 
 ## Steps
@@ -20,10 +21,12 @@ Implement a CLI agent that calls an LLM and returns a JSON response.
 6. Document architecture in AGENT.md
 
 ## Risks
+
 - Missing environment variables
 - Invalid JSON output
 
 ## Success Criteria
+
 - CLI works
 - Uses env variables
 - Test passes
